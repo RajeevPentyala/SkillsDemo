@@ -9,7 +9,7 @@ specialized, repeatable workflows.
 
 | Skill | Description |
 |-------|-------------|
-| [explain-the-dataverse-flow](.github/skills/explain-the-dataverse-flow/README.md) | Reads an exported Dataverse / Power Platform solution (`.zip` or unpacked folder) and produces a clear, beginner-friendly Markdown report of every Power Automate cloud flow — its purpose, trigger, connectors, steps, and child flows. |
+| [explain-the-dataverse-flow](.github/skills/explain-the-dataverse-flow/SKILL.md) | Reads an exported Dataverse / Power Platform solution (`.zip` or unpacked folder) and produces a clear, beginner-friendly Markdown report of every Power Automate cloud flow — its purpose, trigger, connectors, steps, and child flows. |
 
 ## Repository layout
 
@@ -18,7 +18,6 @@ specialized, repeatable workflows.
 └── skills/
     └── explain-the-dataverse-flow/
         ├── SKILL.md          # Skill definition Copilot follows
-        ├── README.md         # How to use this skill
         ├── scripts/          # Supporting scripts
         └── references/       # Background reference docs
 ```
